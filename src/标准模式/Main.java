@@ -10,5 +10,6 @@ public class Main {
         System.out.println("master commit test");
         System.out.println("hot-fix test");
         System.out.println("test");
+        System.out.println("test02");
     }
 }
